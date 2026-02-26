@@ -40,7 +40,7 @@ RapidoSeguroPEND/
 ---
 # Código
 
-##  Responsividade
+## 📱 Responsividade
 
 O projeto utiliza Bootstrap para garantir:
 
