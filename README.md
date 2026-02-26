@@ -60,3 +60,10 @@ git clone https://github.com/seu-usuario/RapidoSeguroPEND.git
 idex.html
 
 Ou utilize a extensão Live Server no VS Code.
+
+## Divisão de trabalhos:
+
+### Davi Custódio da Silva:
+- Desenvolvimento do Header E Footer do projeto, assim como botão de menu hamburger.
+### Raissa Pereira da Silva Bezerra:
+- Desenvolvimento do card de login e estilização da página.
