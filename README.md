@@ -17,7 +17,7 @@ O Rápido&Seguro é um site institucional responsivo com:
 
 Projeto desenvolvido para fins acadêmicos e prática de desenvolvimento web front-end.
 
----
+
 
 ##  Tecnologias Utilizadas
 
@@ -26,18 +26,6 @@ Projeto desenvolvido para fins acadêmicos e prática de desenvolvimento web fro
 - Bootstrap 5
 - Git & GitHub
 
----
-
-##  Estrutura do Projeto
-RapidoSeguroPEND/
-│
-├── index.html
-├── style.css
-├── assets/
-│ ├── icon.png
-│ └── testeee.png
-└── README.md
----
 # Código
 
 ##  Responsividade
